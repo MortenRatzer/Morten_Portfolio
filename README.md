@@ -32,3 +32,7 @@ This project includes a while loop to test whether a seller of a house would acc
 ![](Project 3 - Bidding on a house procedure/Bidding on a house procedure.png)
 
 
+# [Project 4 - Humanoid intelligence tester](https://github.com/MortenRatzer/Morten_Portfolio/tree/main/Project%204%20-%20Humanoid%20intelligence%20tester) 
+This project includes a while loop to test whether a seller of a house would accept bids from the user of the code.
+
+![](Project 4 - Humanoid intelligence tester/Humanoid intelligence tester.png)
