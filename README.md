@@ -43,7 +43,7 @@ This project includes a while loop to test whether a seller of a house would acc
 # [Project 5 - Employee library with search function](https://github.com/MortenRatzer/Morten_Portfolio/tree/main/Project%205%20-%20Employee%20library%20with%20search%20function) 
 This project includes a list of employess that needed to be sorted out. Then I added a search function to find a dear colleague.
 
-First I made a list of employees and some variables to each colleague, being name, department, and age.
+First I made a list of employees and some variables to each colleague, being name, age, and department.
 ![](Project 5 - Employee library with search function/Employee 1.png)
 
 Then I printed out a better overview of the employees:
