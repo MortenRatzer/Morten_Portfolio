@@ -66,4 +66,5 @@ Input:
 ![](Project 7 - Number sorting function/Sorted numbers input.png)
 
 Output:
+
 ![](Project 7 - Number sorting function/Sorted numbers.png)
