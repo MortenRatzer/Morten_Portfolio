@@ -67,4 +67,9 @@ Input:
 
 Output:
 
-![](Project 7 - Number sorting function/Sorted numbers.png)
+![](Project 7 - Number sorting function/Sorted numbers output.png)
+
+# [Project 8 - Finding squirrels of different colors in NY](https://github.com/MortenRatzer/Morten_Portfolio/tree/main/Project%208%20-%20Finding%20squirrels%20of%20different%20colors%20in%20NY) 
+This project uses Pandas read and write csv functions to take a dataset of squirrels and then finding the total number of squirrels with the colors, grey, brown and black.
+
+![](Project 8 - Finding squirrels of different colors in NY/squirrels total.png)
